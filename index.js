@@ -1,1 +1,1 @@
-export default item => item + ' yay';
+export default item => `${item} yay`;
