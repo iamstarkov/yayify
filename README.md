@@ -16,28 +16,19 @@
 ```js
 import yayify from 'yayify';
 
-yayify('unicorns'); // unicorns
+yayify('unicorns'); // unicorns yay
 ```
 
 ## API
 
-### yayify(input, [options])
+### yayify(input)
 
 #### input
 
 *Required*  
 Type: `String`
 
-Lorem ipsum.
-
-#### options
-
-##### foo
-
-Type: `Boolean`  
-Default: `false`
-
-Lorem ipsum.
+Add "yay" to the end.
 
 ## License
 
