@@ -1,1 +1,1 @@
-export default item => item;
+export default item => item + ' yay';
