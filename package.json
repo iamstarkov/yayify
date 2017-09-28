@@ -30,7 +30,7 @@
   "homepage": "https://github.com/iamstarkov/yayify#readme",
   "devDependencies": {
     "babel": "*",
-    "coveralls": "*",
+    "coveralls": ">=2.13.2",
     "assert": "*",
     "istanbul": "*",
     "mocha": "*"
