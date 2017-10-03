@@ -33,6 +33,6 @@
     "coveralls": "*",
     "assert": "*",
     "istanbul": "*",
-    "mocha": "*"
+    "mocha": ">=4.0.0"
   }
 }
